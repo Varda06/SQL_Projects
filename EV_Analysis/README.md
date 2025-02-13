@@ -5,7 +5,7 @@
 This project analyzes electric vehicle (EV) registration data in Washington State to uncover trends in adoption, popular models, and regional preferences. The analysis leverages SQL and Python (Pandas) to derive actionable insights for policymakers and stakeholders.
 
 ## Dataset Overview
-- **Source**: Kaggle ([Electric Vehicle Population Data](https://www.kaggle.com/datasets/geoffnel/ev-population-data)).
+- **Source**: Kaggle ([Electric Vehicle Population Data](https://www.kaggle.com/datasets/saurabhbadole/electric-vehicle-population-data/code)).
 - **Contents**:
   - Vehicle Identification Numbers (VINs)
   - Geographic details (County, City, Postal Code)
